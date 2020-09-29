@@ -19,6 +19,7 @@ void main() {
   }
   // Print the total.
   printf("Question 1: %d\n", answer1);
+  // Prints "Question 1: "233168"
 
   /*Question 5: Sum Square Difference
     Find the difference between the sum of the squares of the first one hundred
@@ -32,5 +33,6 @@ void main() {
   answer6 = i2*i2-i1;
   // Print the difference.
   printf("Question 6: %d", answer6);
+  // Prints: "Question 2: 25164150"
 
 }
